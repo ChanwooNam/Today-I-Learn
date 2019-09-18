@@ -61,6 +61,8 @@ AT
  # at 3:00am tomorrow
  # at now +1 hours
 
+
+
  touch newfile.txt 하고
  Ctrl + d 를 하면 저장하고 나오게 된다. 
 
